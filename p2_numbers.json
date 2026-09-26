@@ -1,0 +1,323 @@
+{
+ "n_patients": 405,
+ "n_allergens": 34,
+ "n_tests": 13770,
+ "n_sensitised": 163,
+ "pct_sensitised": 40.2,
+ "atopy_mean": 1.58,
+ "atopy_sd": 3.23,
+ "atopy_max": 21,
+ "prev_top": [
+  {
+   "allergen": "Shellifish",
+   "n": 38,
+   "pct": 9.4
+  },
+  {
+   "allergen": "Cow Milk, UHT",
+   "n": 34,
+   "pct": 8.4
+  },
+  {
+   "allergen": "Potato",
+   "n": 34,
+   "pct": 8.4
+  },
+  {
+   "allergen": "Egg White",
+   "n": 33,
+   "pct": 8.1
+  },
+  {
+   "allergen": "Pistachio",
+   "n": 31,
+   "pct": 7.7
+  }
+ ],
+ "cooc_total": 2288,
+ "cooc_share_ge5": 92.0,
+ "n_patients_ge5": 43,
+ "pct_patients_ge5": 10.6,
+ "cooc_share_ge10": 64.8,
+ "n_patients_ge10": 13,
+ "pct_patients_ge10": 3.2,
+ "n_pairs_all": 561,
+ "n_sig_unadj": 316,
+ "n_sig_adj": 13,
+ "z_sd": 1.631,
+ "rho_phi_z": 0.933,
+ "n_z_ge3": 29,
+ "top_clinical": [
+  {
+   "a": "Egg White",
+   "b": "Egg Yolk",
+   "n11": 13,
+   "exp": 5.3,
+   "z": 4.69
+  },
+  {
+   "a": "Peanut",
+   "b": "Pumpkin Seeds",
+   "n11": 10,
+   "exp": 3.4,
+   "z": 4.65
+  },
+  {
+   "a": "Rice",
+   "b": "Wheat Flour",
+   "n11": 12,
+   "exp": 4.8,
+   "z": 4.37
+  },
+  {
+   "a": "Onion",
+   "b": "Tomato",
+   "n11": 9,
+   "exp": 3.1,
+   "z": 4.28
+  },
+  {
+   "a": "Orange",
+   "b": "Strawberry",
+   "n11": 13,
+   "exp": 5.7,
+   "z": 4.19
+  },
+  {
+   "a": "Cherry",
+   "b": "Peach",
+   "n11": 9,
+   "exp": 3.3,
+   "z": 4.03
+  }
+ ],
+ "n_records_before": 975,
+ "n_records_after": 161,
+ "n_proteins": 155,
+ "n_entries_final": 33,
+ "n_fragments": 22,
+ "n_pollen_removed": 132,
+ "set_min_before": 1,
+ "set_max_before": 195,
+ "set_med_before": 6,
+ "set_min_after": 1,
+ "set_max_after": 13,
+ "set_med_after": 4,
+ "n_entries_unnamed": 6,
+ "tier_counts": {
+  "tier1": 100,
+  "tier3": 22,
+  "tier4": 39
+ },
+ "n_pairs_analysis": 525,
+ "n_pairs_lost_entry": 33,
+ "n_prot_pairs": 11935,
+ "n_positive": 30,
+ "metrics": [
+  {
+   "label": "Shared protein family",
+   "col": "z_same_family_max",
+   "n": 524,
+   "rho": 0.311,
+   "p": 3.275309533637301e-13,
+   "loao_lo": 0.273,
+   "loao_hi": 0.356,
+   "partial_family": null,
+   "auc": 0.76,
+   "setsize_raw": 0.32,
+   "setsize_adj": -0.263
+  },
+  {
+   "label": "ESM-2 embedding cosine",
+   "col": "z_esm2_cos_max",
+   "n": 524,
+   "rho": 0.299,
+   "p": 3.0201511825712125e-12,
+   "loao_lo": 0.265,
+   "loao_hi": 0.347,
+   "partial_family": 0.085,
+   "auc": 0.8,
+   "setsize_raw": null,
+   "setsize_adj": -0.166
+  },
+  {
+   "label": "ESM-2 cosine, centred",
+   "col": "z_esm2_cos_centered_max",
+   "n": 524,
+   "rho": 0.288,
+   "p": 1.7367791996159306e-11,
+   "loao_lo": 0.254,
+   "loao_hi": 0.331,
+   "partial_family": 0.074,
+   "auc": 0.77,
+   "setsize_raw": null,
+   "setsize_adj": -0.231
+  },
+  {
+   "label": "FAO/WHO 80-aa window",
+   "col": "z_window80_max",
+   "n": 524,
+   "rho": 0.231,
+   "p": 8.734906248020856e-08,
+   "loao_lo": 0.198,
+   "loao_hi": 0.281,
+   "partial_family": -0.049,
+   "auc": 0.76,
+   "setsize_raw": 0.526,
+   "setsize_adj": -0.293
+  },
+  {
+   "label": "Identical 6-mers",
+   "col": "z_kmer6_max",
+   "n": 524,
+   "rho": 0.193,
+   "p": 8.412311722690522e-06,
+   "loao_lo": 0.158,
+   "loao_hi": 0.241,
+   "partial_family": -0.042,
+   "auc": 0.67,
+   "setsize_raw": 0.315,
+   "setsize_adj": -0.567
+  },
+  {
+   "label": "Identical 8-mers",
+   "col": "z_kmer8_max",
+   "n": 524,
+   "rho": 0.167,
+   "p": 0.00011827874387933387,
+   "loao_lo": 0.131,
+   "loao_hi": 0.216,
+   "partial_family": -0.047,
+   "auc": 0.66,
+   "setsize_raw": 0.22,
+   "setsize_adj": -0.636
+  },
+  {
+   "label": "Global sequence identity",
+   "col": "z_identity_global_max",
+   "n": 524,
+   "rho": 0.096,
+   "p": 0.028279177515053912,
+   "loao_lo": 0.038,
+   "loao_hi": 0.132,
+   "partial_family": -0.11,
+   "auc": 0.71,
+   "setsize_raw": 0.506,
+   "setsize_adj": -0.168
+  }
+ ],
+ "esm_partial": {
+  "rho": 0.085,
+  "p": 0.0514,
+  "loao_lo": 0.057,
+  "loao_hi": 0.146,
+  "n_sign_flips": 0
+ },
+ "fam_partial": {
+  "rho": 0.125,
+  "p": 0.0043
+ },
+ "r2_family": 0.0967,
+ "r2_esm": 0.0891,
+ "r2_both": 0.1033,
+ "negctrl": {
+  "mean": -0.0001,
+  "sd": 0.044,
+  "n_exceed": 0
+ },
+ "quadrants": {
+  "middle": 438,
+  "conc_high": 35,
+  "conc_low": 34,
+  "sim_not_cos": 15,
+  "cos_not_sim": 3
+ },
+ "driving_family": {
+  "Profilin": 12,
+  "Plant LTP": 1,
+  "Oleosin": 1,
+  "BetVI": 1
+ },
+ "discordant": [
+  {
+   "a": "Hazelnut",
+   "b": "Strawberry",
+   "identity": 0.673,
+   "z": -2.7,
+   "family": "BetVI"
+  },
+  {
+   "a": "Peach",
+   "b": "Soybean",
+   "identity": 0.847,
+   "z": -2.58,
+   "family": "Profilin"
+  },
+  {
+   "a": "Banana",
+   "b": "Tomato",
+   "identity": 0.771,
+   "z": -2.41,
+   "family": "Profilin"
+  },
+  {
+   "a": "Kiwi",
+   "b": "Peach",
+   "identity": 0.835,
+   "z": -2.23,
+   "family": "Profilin"
+  },
+  {
+   "a": "Hazelnut",
+   "b": "Sesame",
+   "identity": 0.779,
+   "z": -2.11,
+   "family": "Oleosin"
+  },
+  {
+   "a": "Banana",
+   "b": "Strawberry",
+   "identity": 0.794,
+   "z": -2.0,
+   "family": "Profilin"
+  },
+  {
+   "a": "Soybean",
+   "b": "Tomato",
+   "identity": 0.832,
+   "z": -1.92,
+   "family": "Profilin"
+  },
+  {
+   "a": "Banana",
+   "b": "Peanut",
+   "identity": 0.786,
+   "z": -1.92,
+   "family": "Profilin"
+  }
+ ],
+ "sim_identity_min": 0.67,
+ "sim_identity_max": 0.87,
+ "cos_not_sim": [
+  {
+   "a": "Fish",
+   "b": "Gluten",
+   "n11": 2,
+   "z": 2.85
+  },
+  {
+   "a": "Peanut",
+   "b": "Wheat Flour",
+   "n11": 6,
+   "z": 2.11
+  },
+  {
+   "a": "Carrot",
+   "b": "Fish",
+   "n11": 2,
+   "z": 1.53
+  }
+ ],
+ "w80_rho": 0.844,
+ "w80_maxdiff": 0.225
+}

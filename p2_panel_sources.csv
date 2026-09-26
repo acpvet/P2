@@ -1,0 +1,43 @@
+panel_entry,source_organism,taxid
+Apple,Malus domestica,3750
+Banana,Musa acuminata,4641
+Carrot,Daucus carota,4039
+Casein (nBos d8),Bos taurus,9913
+Cherry,Prunus avium,42229
+Chicken,Gallus gallus,9031
+Cow Milk,Bos taurus,9913
+"Cow Milk, UHT",Bos taurus,9913
+Egg White,Gallus gallus,9031
+Egg Yolk,Gallus gallus,9031
+Fig,Ficus carica,3494
+Fish,Gadus morhua,8049
+Fish,Salmo salar,8030
+Fish,Oreochromis niloticus,8128
+Fish,Thunnus albacares,8236
+Gluten,Triticum aestivum,4565
+Hazelnut,Corylus avellana,13451
+Kiwi,Actinidia deliciosa,3627
+Meat,Bos taurus,9913
+Meat,Ovis aries,9940
+Mulberry,Morus alba,3498
+Mulberry,Morus nigra,85232
+Olive,Olea europaea,4146
+Onion,Allium cepa,4679
+Orange,Citrus sinensis,2711
+Peach,Prunus persica,3760
+Peanut,Arachis hypogaea,3818
+Pistachio,Pistacia vera,55513
+Potato,Solanum tuberosum,4113
+Pumpkin Seeds,Cucurbita pepo,3663
+Pumpkin Seeds,Cucurbita maxima,3661
+Rice,Oryza sativa,4530
+Sesame,Sesamum indicum,4182
+Shellifish,Penaeus monodon,6687
+Shellifish,Penaeus vannamei,6689
+Shellifish,Homarus americanus,6706
+Soybean,Glycine max,3847
+Strawberry,Fragaria ananassa,3747
+String Bean,Phaseolus vulgaris,3885
+Sunflower Seeds,Helianthus annuus,4232
+Tomato,Solanum lycopersicum,4081
+Wheat Flour,Triticum aestivum,4565

@@ -1,0 +1,162 @@
+panel_entry,group,n_collapsed,kept,kept_name,kept_len,family
+Apple,Mal d 1,60,P43211,Mal d 1,159,BetVI family
+Apple,Mal d 3,1,Q9M5X7,Mal d 3,115,Plant LTP family
+Apple,Mal d 2,1,Q9FSG7,Mal d 2,246,Thaumatin family
+Apple,UNASSIGNED,3,A0A498IIJ9,(unnamed),191,
+Banana,Mus a 5,1,O22317,Mus a 5,340,Glycosyl hydrolase 17 family
+Banana,Mus xp 1,1,Q94JN3,Mus xp 1,131,Profilin family
+Carrot,Dau c 1,3,A0A161X1M2,Dau c 1,155,BetVI family
+Carrot,BetVI family,1,Q8SAE7,(unnamed),154,BetVI family
+Casein (nBos d8),Bos d 8,1,P02662,Bos d 8,214,Alpha-casein family
+Cherry,Pru a 2,1,P50694,Pru a 2; Pru av 2,245,Thaumatin family
+Cherry,Pru a 1,7,A0A6P5RU98,Pru av 1,159,BetVI family
+Cherry,Pru av 3,1,Q9M5X8,Pru av 3,117,Plant LTP family
+Cherry,Pru a 3,1,Q9XF39,Pru a 3; Pru av 4,131,Profilin family
+Chicken,Triosephosphate isomerase family,1,P00940,(unnamed),248,Triosephosphate isomerase family
+Chicken,Gal d 9,1,P07322,Gal d 9,434,Enolase family
+Chicken,Globin family,1,P02197,(unnamed),154,Globin family
+Chicken,Gal d 10,1,A0A8V0X7U8,Gal d 10,372,Class I fructose-bisphosphate aldolase family
+Chicken,Gal d 8,1,P80026,Gal d 8,109,Parvalbumin family
+Cow Milk,Bos d 6,1,P02769,Bos d 6,607,ALB/AFP/VDB family
+Cow Milk,Bos d 8,1,P02662,Bos d 8,214,Alpha-casein family
+Cow Milk,Bos d 5,1,P02754,Bos d 5,178,"Calycin superfamily, Lipocalin family"
+Cow Milk,Bos d 4,1,P00711,Bos d 4,142,Glycosyl hydrolase 22 family
+"Cow Milk, UHT",Bos d 6,1,P02769,Bos d 6,607,ALB/AFP/VDB family
+"Cow Milk, UHT",Bos d 8,1,P02662,Bos d 8,214,Alpha-casein family
+"Cow Milk, UHT",Bos d 5,1,P02754,Bos d 5,178,"Calycin superfamily, Lipocalin family"
+"Cow Milk, UHT",Bos d 4,1,P00711,Bos d 4,142,Glycosyl hydrolase 22 family
+Egg White,UNASSIGNED,1,P10184,(unnamed),517,
+Egg White,Gal d 4,1,P00698,Gal d 4,147,Glycosyl hydrolase 22 family
+Egg White,Gal d 3,1,P02789,Gal d 3,705,Transferrin family
+Egg White,Gal d 2,1,P01012,Gal d 2,386,"Serpin family, Ov-serpin subfamily"
+Egg White,Gal d 1,1,P01005,Gal d 1,210,
+Egg Yolk,UNASSIGNED,1,P87498,(unnamed),1912,
+Egg Yolk,Gal d 5,1,P19121,Gal d 5,615,ALB/AFP/VDB family
+Fig,2S seed storage albumins family,2,A0AA88DB90,(unnamed),157,2S seed storage albumins family
+Fig,11S seed storage protein (globulins) family,10,A0AA87Z5N0,(unnamed),493,11S seed storage protein (globulins) family
+Fig,Beclin family; Plant LTP family,1,A0AA88D3F8,(unnamed),653,Beclin family; Plant LTP family
+Fig,Peptidase S54 family; Plant LTP family,1,A0AA88A2P2,(unnamed),436,Peptidase S54 family; Plant LTP family
+Fig,Plant LTP family,30,A0AA87ZVW7,(unnamed),124,Plant LTP family
+Fig,7S seed storage protein family,1,A0AA87ZZH8,(unnamed),185,7S seed storage protein family
+Fig,"Plant LTP family, PEARLI1 subfamily",9,A0AA87YQ47,(unnamed),137,"Plant LTP family, PEARLI1 subfamily"
+Fig,Oleosin family,3,A0AA88D362,(unnamed),155,Oleosin family
+Fig,Profilin family,4,A0AA88A7B3,(unnamed),145,Profilin family
+Fig,BetVI family,29,A0AA88DXA8,(unnamed),160,BetVI family
+Fig,Thaumatin family,41,A0AA88DB57,(unnamed),254,Thaumatin family
+Fig,"Glycosyl hydrolase 19 family, Chitinase class I subfamily; Thaumatin family",1,A0AA88DF49,(unnamed),351,"Glycosyl hydrolase 19 family, Chitinase class I subfamily; Thaumatin family"
+Fig,"Glycosyl hydrolase 18 family, Chitinase class II subfamily; Thaumatin family",1,A0AA88AGZ7,(unnamed),493,"Glycosyl hydrolase 18 family, Chitinase class II subfamily; Thaumatin family"
+Fish,Gad m 1,1,Q90YK9,Gad m 1,109,Parvalbumin family
+Fish,Gad c 1,1,P02622,Gad c 1,113,Parvalbumin family
+Fish,Sal s 2,1,B5DGQ7,Sal s 2,434,Enolase family
+Fish,Sal s 3,1,B5DGM7,Sal s 3,363,Class I fructose-bisphosphate aldolase family
+Fish,Sal s 1,2,Q91482,Sal s 1,109,Parvalbumin family
+Fish,Parvalbumin family,16,A0A669EKH3,(unnamed),110,Parvalbumin family
+Fish,Profilin family,4,A0A669DVI7,(unnamed),139,Profilin family
+Fish,Tropomyosin family,64,A0A669D4Y1,(unnamed),284,Tropomyosin family
+Fish,Thu a 2,1,I0J1J1,Thu a 2,432,Enolase family
+Gluten,Gliadin/glutenin family,10,P04722,(unnamed),291,Gliadin/glutenin family
+Hazelnut,Cor a 8,1,Q9ATH2,Cor a 8,115,Plant LTP family
+Hazelnut,Cor a 11,1,Q8S4P9,Cor a 11,448,7S seed storage protein family
+Hazelnut,Cor a 10,1,Q9FSY7,Cor a 10,668,Heat shock protein 70 family
+Hazelnut,Cor a 12,1,Q84T21,Cor a 12,159,Oleosin family
+Hazelnut,Cor a 15,1,C0HM28,Cor a 15,169,Oleosin family
+Hazelnut,Cor a 13,1,Q84T91,Cor a 13,140,Oleosin family
+Hazelnut,Cor a 9,1,A0A0A0P7E3,Cor a 9,514,11S seed storage protein (globulins) family
+Hazelnut,Cor a 1,3,Q39453,Cor a 1,160,BetVI family
+Hazelnut,BetVI family,10,A0AA49EHN2,(unnamed),159,BetVI family
+Hazelnut,Oleosin family,1,A0ACM5KKC3,(unnamed),169,Oleosin family
+Hazelnut,Glycosyl hydrolase 28 family,1,A0A7U3MZV8,(unnamed),440,Glycosyl hydrolase 28 family
+Hazelnut,UNASSIGNED,1,A0ACM5K329,(unnamed),471,
+Kiwi,Act d 4,1,Q6TPK4,Act d 4,116,"Cystatin family, Phytocystatin subfamily"
+Kiwi,Act d 5,1,P84527,Act d 5,213,Kiwellin family
+Kiwi,Act d 1,1,A5HII1,Act d 1,380,Peptidase C1 family
+Kiwi,Act d 2,1,P81370,Act d 2,225,Thaumatin family
+Kiwi,Act d 11,1,P85524,Act d 11,150,MLP family
+Kiwi,Act d 10,2,P86137,Act d 10,92,Plant LTP family
+Kiwi,Act d 9,1,C0HL99,Act d 9,109,Profilin family
+Meat,Tropomyosin family,10,A0ACI6Q4D5,(unnamed),284,Tropomyosin family
+Meat,Parvin family; Tropomyosin family,1,A0ACI6NPV3,(unnamed),501,Parvin family; Tropomyosin family
+Meat,Parvalbumin family,5,A0ACI6Q9Z7,(unnamed),110,Parvalbumin family
+Mulberry,BetVI family,2,A0A0B5GPP3,(unnamed),157,BetVI family
+Mulberry,Thaumatin family,1,V5XVK5,(unnamed),231,Thaumatin family
+Mulberry,Mor n 3,1,P85894,Mor n 3,91,Plant LTP family
+Olive,Ole e 5,1,Q8L5E0,Ole e 5,152,Cu-Zn superoxide dismutase family
+Olive,Ole e 13,1,E3SU11,Ole e 13,226,Thaumatin family
+Olive,Ole e 8,3,Q9M7R0,Ole e 8,171,
+Olive,UNASSIGNED,4,A0A8S0TDN7,(unnamed),84,
+Olive,Ole e 14,1,W8PPL3,Ole e 14,379,Glycosyl hydrolase 28 family
+Onion,Plant LTP family,1,Q41258,(unnamed),132,Plant LTP family
+Orange,Cit s 2,1,P84177,Cit s 2,131,Profilin family
+Peach,Pru p 1,1,P81402,Pru p 1; Pru p 3,91,Plant LTP family
+Peach,Pru p 4,1,Q8GT39,Pru p 4,131,Profilin family
+Peach,Pru p 7,1,P86888,Pru p 7,63,GASA family
+Peach,BetVI family,3,Q2I6V8,(unnamed),160,BetVI family
+Peanut,Ara h 2,2,A0A5Q0V3R5,Ara h 2,160,2S seed storage albumins family
+Peanut,Ara h 13,2,C0HJZ1,Ara h 13,72,DEFL family
+Peanut,Ara h 15,1,Q647G3,Ara h 15,166,Oleosin family
+Peanut,Ara h 14,3,Q9AXI0,Ara h 14,176,Oleosin family
+Peanut,Ara h 12,1,B3EWP3,Ara h 12,71,DEFL family
+Peanut,Ara h 10,2,Q647G5,Ara h 10,169,Oleosin family
+Peanut,Ara h 1,3,P43237,Ara h 1,614,7S seed storage protein family
+Peanut,Ara h 6,1,Q647G9,Ara h 6,145,2S seed storage albumins family
+Peanut,Ara h 11,2,Q45W87,Ara h 11,137,Oleosin family
+Peanut,Ara h 5,1,Q9SQI9,Ara h 5,131,Profilin family
+Peanut,Ara h 7,1,B4XID4,Ara h 7,164,2S seed storage albumins family
+Peanut,Ara h 8,3,Q6VT83,Ara h 8,157,BetVI family
+Pistachio,Pis v 3,1,B4X640,Pis v 3,545,7S seed storage protein family
+Pistachio,Pis v 2,2,B7P074,Pis v 2,472,11S seed storage protein (globulins) family
+Pistachio,Pis v 1,1,B7P072,Pis v 1,149,2S seed storage albumins family
+Pistachio,Pis v 5,1,B7SLJ1,Pis v 5,473,11S seed storage protein (globulins) family
+Potato,Sola t 4,1,P30941,Sola t 4,221,Protease inhibitor I3 (leguminous Kunitz-type inhibitor) family
+Potato,Sola t 2,1,P16348,Sola t 2,188,Protease inhibitor I3 (leguminous Kunitz-type inhibitor) family
+Pumpkin Seeds,2S seed storage albumins family,3,Q39649,(unnamed),141,2S seed storage albumins family
+Pumpkin Seeds,11S seed storage protein (globulins) family,9,P13744,(unnamed),480,11S seed storage protein (globulins) family
+Pumpkin Seeds,Plant LTP family,30,A0A6J1HTX7,(unnamed),124,Plant LTP family
+Pumpkin Seeds,7S seed storage protein family,2,A0A6J1ITC1,(unnamed),776,7S seed storage protein family
+Pumpkin Seeds,Oleosin family,9,A0A6J1JNR0,(unnamed),162,Oleosin family
+Pumpkin Seeds,Profilin family,9,A0A6J1ITQ4,(unnamed),131,Profilin family
+Pumpkin Seeds,BetVI family,7,A0A6J1KZ37,(unnamed),159,BetVI family
+Pumpkin Seeds,Thaumatin family,51,A0A6J1J7G6,(unnamed),259,Thaumatin family
+Pumpkin Seeds,"Plant LTP family, PEARLI1 subfamily",25,A0A6J1I2B7,(unnamed),136,"Plant LTP family, PEARLI1 subfamily"
+Rice,Glyoxalase I family,1,Q948T6,(unnamed),291,Glyoxalase I family
+Rice,"Glycosyltransferase 1 family, Bacterial/plant glycogen synthase subfamily",1,Q0DEV5,(unnamed),609,"Glycosyltransferase 1 family, Bacterial/plant glycogen synthase subfamily"
+Rice,7S seed storage protein family,3,B8AL97,(unnamed),470,7S seed storage protein family
+Rice,Protease inhibitor I6 (cereal trypsin/alpha-amylase inhibitor) family,1,Q01881,(unnamed),160,Protease inhibitor I6 (cereal trypsin/alpha-amylase inhibitor) family
+Rice,Ory s 19,1,P29835,Ory s 19,186,2S seed storage albumins family
+Rice,Cereal trypsin/alpha-amylase inhibitor family,3,Q8H4L8,(unnamed),157,Cereal trypsin/alpha-amylase inhibitor family
+Rice,Ory s 17,2,Q7X8H9,Ory s 17,159,Cereal trypsin/alpha-amylase inhibitor family
+Sesame,Ses i 6,1,Q9XHP0,Ses i 6,459,11S seed storage protein (globulins) family
+Sesame,Ses i 5,1,Q9XHP2,Ses i 5,145,Oleosin family
+Sesame,Ses i 4,1,Q9FUJ9,Ses i 4,166,Oleosin family
+Sesame,Ses i 2,1,Q9XHP1,Ses i 2,148,2S seed storage albumins family
+Shellifish,Pen m 2,1,C7E3T4,Pen m 2,356,ATP:guanido phosphotransferase family
+Shellifish,Pen m 1,1,A1KYZ2,Pen m 1,284,Tropomyosin family
+Shellifish,Lit v 2,2,Q004B5,Lit v 2,356,ATP:guanido phosphotransferase family
+Shellifish,Lit v 3,1,B7SNI3,Lit v 3,177,
+Shellifish,Lit v 4,1,C7A639,Lit v 4,193,
+Shellifish,Hom a 1,1,O44119,Hom a 1,284,Tropomyosin family
+Soybean,Gly m 6,5,P11828,Gly m 6,481,11S seed storage protein (globulins) family
+Soybean,Gly m 5,4,P25974,Gly m 5,439,7S seed storage protein family
+Soybean,Gly m 3,2,O65810,Gly m 3,131,Profilin family
+Soybean,Gly m 4,1,P26987,Gly m 4,158,BetVI family
+Soybean,Gly m 1,1,P24337,Gly m 1,80,"Plant LTP family, PEARLI1 subfamily"
+Soybean,Peptidase C1 family,1,O64458,(unnamed),379,Peptidase C1 family
+Soybean,UNASSIGNED,1,Q9AVK8,(unnamed),476,
+Strawberry,Fra a 1,13,D0E0C7,Fra a 1,159,BetVI family
+Strawberry,Fra a 4,1,P0C0Y3,Fra a 4,131,Profilin family
+Strawberry,UNASSIGNED,1,W5X2N3,(unnamed),193,
+String Bean,7S seed storage protein family,32,Q41115,(unnamed),430,7S seed storage protein family
+String Bean,Profilin family,5,P49231,(unnamed),131,Profilin family
+String Bean,BetVI family,17,V7CAE0,(unnamed),160,BetVI family
+String Bean,11S seed storage protein (globulins) family,6,V7AEY9,(unnamed),356,11S seed storage protein (globulins) family
+String Bean,Plant LTP family,79,V7B793,(unnamed),124,Plant LTP family
+String Bean,Oleosin family,5,V7CE49,(unnamed),160,Oleosin family
+String Bean,Thaumatin family,28,T2DN75,(unnamed),254,Thaumatin family
+String Bean,"Plant LTP family, PEARLI1 subfamily",23,V7CEG9,(unnamed),133,"Plant LTP family, PEARLI1 subfamily"
+Tomato,Thaumatin family,1,P12670,(unnamed),247,Thaumatin family
+Tomato,Lyc e 1,1,Q93YG7,Lyc e 1,131,Profilin family
+Wheat Flour,Peptidase S10 family,1,P08819,(unnamed),444,Peptidase S10 family
+Wheat Flour,Tri a 28,1,P01085,Tri a 28,124,Protease inhibitor I6 (cereal trypsin/alpha-amylase inhibitor) family
+Wheat Flour,Gliadin/glutenin family,10,P04722,(unnamed),291,Gliadin/glutenin family
+Wheat Flour,Tri a 17,1,P93594,Tri a 17,503,Glycosyl hydrolase 14 family
+Wheat Flour,GILT family,1,D2TE73,(unnamed),202,GILT family

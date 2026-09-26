@@ -1,0 +1,23 @@
+source_organism,accession,length,reason,protein_names
+Ficus carica,A0AA88EHY3,41,fragment < 50 aa,Profilin
+Ficus carica,A0AA88EHY5,42,fragment < 50 aa,Profilin
+Gadus morhua,B3A0L6,11,fragment < 50 aa,Beta-enolase (EC 4.2.1.11) (2-phospho-D-glycerate hydro-lyase) (Enolase 3) (Muscle-specific enolase) (MSE) (Skeletal muscle enolase) (allergen Gad m 2.0101)
+Gadus morhua,P86980,15,fragment < 50 aa,Fructose-bisphosphate aldolase A (EC 4.1.2.13) (Muscle-type aldolase) (allergen Gad m 3.0101)
+Thunnus albacares,P86978,12,fragment < 50 aa,Beta-enolase (EC 4.2.1.11) (2-phospho-D-glycerate hydro-lyase) (Enolase 3) (Muscle-specific enolase) (MSE) (Skeletal muscle enolase)
+Thunnus albacares,P86979,37,fragment < 50 aa,Fructose-bisphosphate aldolase A (EC 4.1.2.13) (Muscle-type aldolase) (allergen Thu a 3.0101)
+Triticum aestivum,P81496,27,fragment < 50 aa,Allergen C-C
+Actinidia deliciosa,C0HJF9,13,fragment < 50 aa,Allergen Act d 12 (allergen Act d 12)
+Actinidia deliciosa,C0HJG0,8,fragment < 50 aa,Allergen Act d 13 (allergen Act d 13)
+Actinidia deliciosa,P85063,36,fragment < 50 aa,Allergen Act d 3 (Allergen Act d 3.01) (Allergen Act d 3.02) (allergen Act d 3)
+Olea europaea,P80740,30,fragment < 50 aa,Superoxide dismutase [Cu-Zn] 1 (EC 1.15.1.1) (Allergen Ole e V) (allergen Ole e 5)
+Olea europaea,P81430,21,fragment < 50 aa,Pollen allergen Ole e 7 (Allergen Ole e VII) (allergen Ole e 7)
+Olea europaea,P80741,24,fragment < 50 aa,Major pollen allergen Ole e 4 (Allergen Ole e IV) (allergen Ole e 4)
+Citrus sinensis,P84159,25,fragment < 50 aa,Germin-like protein (allergen Cit s 1)
+Citrus sinensis,P84161,20,fragment < 50 aa,Non-specific lipid-transfer protein (LTP) (allergen Cit s 3.0101)
+Oryza sativa,P83466,15,fragment < 50 aa,Pollen allergen Ory s 2-A (allergen Ory s 2-A)
+Penaeus monodon,P86703,16,fragment < 50 aa,Myosin light chain
+Glycine max,P82947,17,fragment < 50 aa,Major Gly 50 kDa allergen (allergen Gly m 50kD)
+Glycine max,Q9S8F2,39,fragment < 50 aa,GLY M IB allergen
+Glycine max,Q9S8F3,42,fragment < 50 aa,GLY M IA allergen
+Phaseolus vulgaris,P83959,30,fragment < 50 aa,Thaumatin-like protein
+Solanum lycopersicum,P86417,15,fragment < 50 aa,Non-specific lipid-transfer protein (LTP) (NsLTP) (7kDa lipid transfer protein) (7k-LTP) (Non-specific lipid-transfer protein 2) (LTP2) (allergen Sola l 6)
